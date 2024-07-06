@@ -1,8 +1,0 @@
-检测到的人数：11
-检测到的车辆：
-car：33
-tricycle：0
-motorbike：3
-bus：2
-truck：3
-carplate：0
